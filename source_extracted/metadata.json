@@ -1,0 +1,7 @@
+{
+  "name": "Sistem Keuangan & Buku Kas",
+  "description": "Sistem keuangan kas & bank dengan pencatatan mutasi harian, rincian pos keuangan, neraca saldo (trial balance), dan laporan laba rugi dengan export Excel dan cetak PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
